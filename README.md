@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanDYanez
 - 👀 I’m interested in being a coding expert. I'm just starting in this fascinating world.
-- 🌱 I’m currently learning HTML - CSS
+- 🌱 I’m currently learning HTML - CSS - JS
 - 💞️ I’m looking to collaborate on HTML - CSS projects.
 
 <!---
