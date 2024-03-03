@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Juan David, a frontend star developer [in progress...]</h2>
+<h2 align="left">Hi 👋! My name is Juan David, a FULL frontend developer 🚀</h2>
 
 ###
 
